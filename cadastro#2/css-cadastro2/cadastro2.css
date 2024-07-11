@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    line-height: normal;
+    background-color: #432b54;
+}
+
+.img {
+    position: absolute;
+    top: 31px;
+    left: 0px;
+    width: 1018px;
+    height: 680px;
+    object-fit: contain;
+}
+
+.seu-cadastro {
+    margin: 0;
+    font-weight: 600;
+}
+
+.inicio {
+    font-size: 48px;
+    font-weight: 600;
+    font-family: Montserrat;
+    color: #fff;
+}
+
+.bankai{
+    font-family: Montserrat;
+    color: #593870;
+}
+
+.meio {
+    font-size: 64px;
+}
+
+.span{
+    color: #6d5585;
+}
+
+.secundario {
+    font-weight: 600;
+}
+
+.principal {
+    margin: 0;
+}
+
+.cadastro-container {
+    position: absolute;
+    top: 69px;
+    left: 72px;
+    display: inline-block;
+    width: 736px;
+    font-size: 48px;
+}
+
+.cadastro-2{
+    position: absolute;
+    top: 791px;
+    left: 825px;
+    border-radius: 500px;
+    width: 536px;
+    height: 142px;
+}
+
+.explorar{
+    position: absolute;
+    top: 840px;
+    left: 869px;
+    font-weight: 600;
+}
+
+.explorar a{
+    color: white;
+    text-decoration: none;
+}
+
+.vamos-la {
+    position: absolute;
+    top: 840px;
+    left: 304px;
+    color: #8c00f0;
+}
+
+.vamos-la a{
+    text-decoration: none;
+    color: #8c00f0;
+}
+
+.cadastro-sec{
+    position: absolute;
+    top: 791px;
+    left: 202px;
+    border-radius: 500px;
+    width: 385px;
+    height: 142px;
+}
+
+
+.cadastro{
+    width: 100%;
+    position: relative;
+    background-color: #432b54;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 36px;
+    color: #fff;
+    font-family: Montserrat;
+}
+
+body::-webkit-scrollbar {
+    width: 12px;     
+  }
+  
+body::-webkit-scrollbar-track {
+    background: #432b54;        
+  }
+  
+body::-webkit-scrollbar-thumb {
+    background-color: #6d5585;   
+    border-radius: 20px;
+  }
